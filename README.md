@@ -130,11 +130,10 @@ where you run other `hugo` commands.
 
 ## Additional resources
 
-- [Master Hugo Modules: Managing Themes as Modules](https://www.hugofordevelopers.com/articles/master-hugo-modules-managing-themes-as-modules/)
+- [Master Hugo Modules: Managing Themes as Modules](https://web.archive.org/web/20221104000312/https://www.hugofordevelopers.com/articles/master-hugo-modules-managing-themes-as-modules/)
 - [How to use Hugo Modules](https://geeksocket.in/posts/hugo-modules/)
 - [How to add a theme using modules (for beginners)](https://discourse.gohugo.io/t/how-to-add-a-theme-using-modules-for-beginners/20665)
 - [Hugo modules for “dummies”](https://discourse.gohugo.io/t/hugo-modules-for-dummies/20758)
-- [Hugo Module replacements](https://www.staticsiteguru.com/post/module-replace/)
 - [My modular site (by bep)](https://github.com/bep/my-modular-site)
 - [Hugo Modules documentation](https://gohugo.io/hugo-modules/)
 
